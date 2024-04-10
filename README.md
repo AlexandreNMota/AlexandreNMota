@@ -10,9 +10,8 @@
 ```javascript
 const alexandre = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  ferramentas: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
