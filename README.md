@@ -5,7 +5,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFuMGRka2pqNm92bzloNGxyaXhsbnk2N2dlYnNmZ2VrN2lqMTZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> Um pouco mais sobre mim...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa245ZnpwenFsNWxlM2pyOGR2ZmZteGhkOG5ycTI1cWJsa3ZsdXBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ROWyksAay7f0qLed0/giphy.gif" width="50"> Um pouco mais sobre mim...  
 
 ```javascript
 const alexandre = {
