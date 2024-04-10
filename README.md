@@ -11,7 +11,6 @@
 const alexandre = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Python],
   ferramentas: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-
 }
 ```
 
