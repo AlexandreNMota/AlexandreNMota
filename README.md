@@ -1,4 +1,4 @@
-<h2> Olá, Eu sou Alexandre Mota! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FodDZ5bzRqeTZhNW9wZ3lkZzZ1MTB4c3p0b2xnOGlhdzk2cWNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExfefVh7RnU58f6/giphy.gif" width="50"></h2>
+<h2> Olá, Eu sou Alexandre Mota! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjdGR2a3puZjBrbDlyY3dpc3BwaTM5MWg1aXV6ZjQ5NmphbGM3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoJC2R5uH2Z3tNi6s0/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Analista de Sistemas na <a href="http://www.unb.br">Plansul Planejamento e Consultoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
