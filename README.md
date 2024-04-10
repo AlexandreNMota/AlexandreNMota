@@ -8,9 +8,9 @@
 
 
 
-<p>
+
 > "Você pode criar qualquer coisa: basta escrever." - C. S. Lewis
-</p>
+
 
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa245ZnpwenFsNWxlM2pyOGR2ZmZteGhkOG5ycTI1cWJsa3ZsdXBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ROWyksAay7f0qLed0/giphy.gif" width="50"> Um pouco mais sobre mim...  
