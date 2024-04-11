@@ -27,8 +27,4 @@ const alexandre = {
 ---
  ## 📚 GitHub Status
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AlexandreNMota&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&card_width=806)
-<div>
-<a href="https://github.com/AlexandreNMota">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreNMota&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreNMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
