@@ -3,7 +3,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFuMGRka2pqNm92bzloNGxyaXhsbnk2N2dlYnNmZ2VrN2lqMTZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="290" height="340">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFuMGRka2pqNm92bzloNGxyaXhsbnk2N2dlYnNmZ2VrN2lqMTZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="290" height="290">
 👨‍💻 Todo dia algo novo e o avanço é constante. 👩‍💻
 
 
